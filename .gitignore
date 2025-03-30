@@ -1,0 +1,5 @@
+# Ignore UCI HAR Dataset directory
+human+activity+recognition+using+smartphones/
+
+# Ignore all .npy files
+*.npy
