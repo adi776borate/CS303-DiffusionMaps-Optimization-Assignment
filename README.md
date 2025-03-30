@@ -5,6 +5,11 @@
 
 This repository contains the Python code implementation for the coding assignment of course CS-303 (March 6, 2025). The assignment covers two main problems:
 
+<summary><strong>📌 Usage Note</strong></summary>
+
+- Click on the preview images to open fully interactive Plotly 3D plots.
+- If a notebook appears truncated or doesn't render correctly on GitHub, download and run it locally using Jupyter for complete output.
+
 ## Problem 1: Data Visualization using Diffusion Maps
 
 *   **Goal:** Apply Diffusion Maps, a manifold learning technique, for dimensionality reduction and clustering of the UCI Human Activity Recognition (HAR) time-series dataset.
